@@ -18,7 +18,7 @@
         <json.version>20140107</json.version>
         <jackson-core.version>2.9.2</jackson-core.version>
         <jackson-annotations.version>2.9.0</jackson-annotations.version>
-        <jackson-databind.version>2.9.4</jackson-databind.version>
+        <jackson-databind.version>2.9.5</jackson-databind.version>
         <retrofit.version>1.7.0</retrofit.version>
 
         <jtattoo.version>1.6.11</jtattoo.version>
